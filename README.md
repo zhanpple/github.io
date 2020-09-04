@@ -1,10 +1,6 @@
-# <center> 齐万物，共生死</center>
+## 开源仓库 
 
-<img src=".\file\hero.svg" width = "200" height = "200"/> **闲看庭前花开花落，漫随天外云卷云舒 ** 
-
-# 开源仓库 
-
-## 1.[高仿AndroidStudio 颜色选择器 以及其他自定义控件](https://github.com/zhanpple/colorPicker)
+### 1.[高仿AndroidStudio 颜色选择器 以及其他自定义控件](https://github.com/zhanpple/colorPicker)
 
 
 
@@ -13,21 +9,38 @@
 
 
 
-##  2.[Android常用工具类](https://github.com/zhanpple/utils)
+###  2.[Android常用工具类](https://github.com/zhanpple/utils)
 
 
 
 
-# 博客文章
+## 博客文章
 
-- ## Java 基础
+- ### Java 基础
+  - #### 1.[Android Studio 写java工程](https://juejin.im/post/6844904045274988551)
 
-- ## Android 基础
+  - #### 2.[Java 爬虫入门](https://juejin.im/post/6844904104406286350)
 
-- ##  Jetpack 进阶
+  - #### 3.[Java 反射](https://juejin.im/user/483440848288045)
+
+  - #### 4.[Java注解 ](https://juejin.im/post/6868557848591204360)
+
+- ### Android 基础
+
+- ###  Jetpack 进阶
 
 
 
 
-# <center> Android Forever</center>
+
+
+
+
+
+
+# <center>Android Forever </center>
+
+<img src=".\file\hero.svg" width = "200" height = "200"/> **闲看庭前花开花落，漫随天外云卷云舒 ** 
+
+# <center> 齐万物，共生死 </center>
 
