@@ -2,10 +2,9 @@
 
 ### 1.[高仿AndroidStudio 颜色选择器 以及其他自定义控件](https://github.com/zhanpple/colorPicker)
 
-<<<<<<< HEAD
-=======
+
+
 <img src=".\file\hero.svg" width = "200" height = "200"/>**闲看庭前花开花落，漫随天外云卷云舒** 
->>>>>>> a63e8c7c909560402c8dcf950c01bf8917434534
 
 
 <img src=".\file\color_picker.png" height = "300"/>
