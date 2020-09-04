@@ -4,13 +4,16 @@
 
 # 开源仓库 
 
-## 1.[colorPicker](https://github.com/zhanpple/colorPicker)
+## 1.[高仿AndroidStudio 颜色选择器 以及其他自定义控件](https://github.com/zhanpple/colorPicker)
 
 
 
-![示例图](https://raw.githubusercontent.com/zhanpple/colorPicker/master/files/ui_pre.jpg "效果示例图")
+<img src=".\file\color_picker.png" height = "300"/>
 
-##  2.[androidUtils](https://github.com/zhanpple/androidUtils)
+
+
+
+##  2.[Android常用工具类](https://github.com/zhanpple/utils)
 
 
 
