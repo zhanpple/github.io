@@ -20,11 +20,9 @@
 
 # 博客文章
 
-- 
-  ## Java 基础
+- ## Java 基础
 
-- 
-  ## Android 基础
+- ## Android 基础
 
 - ##  Jetpack 进阶
 
