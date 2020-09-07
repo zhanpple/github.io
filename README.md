@@ -47,7 +47,7 @@
 
 # <center>Android Forever </center>
 
-**闲看庭前花开花落，漫随天外云卷云舒** <img src=".\file\hero.svg" width = "200" height = "200"/> 
+<center>**闲看庭前花开花落，漫随天外云卷云舒** <img src=".\file\hero.svg" width = "200" height = "200"/> </center>
 
 # <center> 齐万物，共生死 </center>
 
