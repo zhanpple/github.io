@@ -47,7 +47,7 @@
 
 # <center>Android Forever </center>
 
- <img src=".\file\hero.svg" width = "200" height = "200"  float="left"/><H3 float="left">闲看庭前花开花落，漫随天外云卷云舒</H3> 
+ <div style="height:300px;align-items: center;display: flex;"><img src=".\file\hero.svg" style="height:300px;float:left"/><H4 style="float:left;margin:auto">闲看庭前花开花落，漫随天外云卷云舒</H4></div>
 
 # <center> 齐万物，共生死 </center>
 
