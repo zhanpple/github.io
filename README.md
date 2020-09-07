@@ -1,10 +1,13 @@
+
+
+<img src=".\file\jetpack_donut.png"/>
+
+
 ## 开源仓库 
 
 ### 1.[高仿AndroidStudio 颜色选择器 以及其他自定义控件](https://github.com/zhanpple/colorPicker)
 
 
-
-<img src=".\getViewModelStore" width = "200" height = "200"/>
 
 
 <img src=".\file\color_picker.png" height = "300"/>
@@ -29,6 +32,7 @@
   - #### 4.[Java注解 ](https://juejin.im/post/6868557848591204360)
 
 - ### Android 基础
+  - #### 1.[Android 缓存策略](https://juejin.im/post/6844904087146725383)
 
 - ###  Jetpack 进阶
 
