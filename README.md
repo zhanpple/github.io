@@ -32,8 +32,8 @@
 
 - ### Android 相关博客
   - #### 1.[Android 缓存策略](https://juejin.im/post/6844904087146725383)
-  - #### 1.[Handler 高级用法](https://juejin.im/post/6872185027267035144)
-
+  - #### 2.[Handler 高级用法](https://juejin.im/post/6872185027267035144)
+  - #### 3.[Android 组件化](https://juejin.im/post/6874402605964427272)
 - ###  Jetpack 进阶
 
 
