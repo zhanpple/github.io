@@ -9,7 +9,6 @@
 
 
 
-
 <img src=".\file\color_picker.png" height = "300"/>
 
 
@@ -22,17 +21,18 @@
 
 ## 博客文章
 
-- ### Java 基础
+- ### Java 基础巩固
   - #### 1.[Android Studio 写java工程](https://juejin.im/post/6844904045274988551)
 
   - #### 2.[Java 爬虫入门](https://juejin.im/post/6844904104406286350)
 
   - #### 3.[Java 反射](https://juejin.im/user/483440848288045)
 
-  - #### 4.[Java注解 ](https://juejin.im/post/6868557848591204360)
+  - #### 4.[Java 注解 ](https://juejin.im/post/6868557848591204360)
 
-- ### Android 基础
+- ### Android 相关博客
   - #### 1.[Android 缓存策略](https://juejin.im/post/6844904087146725383)
+  - #### 1.[Handler 高级用法](https://juejin.im/post/6872185027267035144)
 
 - ###  Jetpack 进阶
 
